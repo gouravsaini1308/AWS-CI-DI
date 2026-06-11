@@ -14,3 +14,5 @@
 
 6. In src folder we will create another folder named components and in this folder we will create file such as __init__.py, data_ingestion.py, data_transformatoin.py and model_trainer.py. 
 So this components that you have seen till now data ingestion data transformation model trainer.The mainly this is specifically for the training purpose
+
+aws deployment
