@@ -16,3 +16,6 @@
 So this components that you have seen till now data ingestion data transformation model trainer.The mainly this is specifically for the training purpose
 
 aws deployment
+
+
+334687118073.dkr.ecr.us-east-1.amazonaws.com/studentperformance
